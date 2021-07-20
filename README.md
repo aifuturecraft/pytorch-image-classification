@@ -32,3 +32,9 @@ conda list -n <ENV_NAME>
 ```
 jupyter notebook
 ```
+
+
+- 提取features map
+```
+python3 get_features_vgg16.py <pic_path> 1
+```
